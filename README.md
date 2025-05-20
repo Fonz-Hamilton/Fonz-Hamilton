@@ -1,5 +1,5 @@
 - Hi, I’m Chris (Fonz) Hamilton
-- Currently an ASU student looking for an internship
+- B.S. in Computer Science with a focus on software engineering at ASU
 
 <!---
 Fonz-Hamilton/Fonz-Hamilton is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
